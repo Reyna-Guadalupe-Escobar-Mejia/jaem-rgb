@@ -1,16 +1,15 @@
-### Hi there 👋
+# José Alfonso Escobar
+<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align="center"> Hi World 👋<\h1>
 
-
-**jaem-rgb/jaem-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🔭 I’m currently working on LaunchX
+- 🌱 I’m currently learning HTML, CSS and JavaScrip
+  
+# Social Networks:
+- `Twitter` : <https://twitter.com/JAEM_Developer/>
+- `LinkedIn` : <https://www.linkedin.com/in/jos%C3%A9-alfonso-escobar-mej%C3%ADa-15133620b//>
+- `Facebook`: Deshabilitado
+- `Email`: <a href="mailto:josealfonsoescobarmejia@gmai.com">Gmail</a>
+  
